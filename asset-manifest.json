@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/axios-homework/static/css/main.27c25cfb.css",
+    "main.js": "/axios-homework/static/js/main.650e311c.js",
+    "static/js/453.dcd67a1a.chunk.js": "/axios-homework/static/js/453.dcd67a1a.chunk.js",
+    "index.html": "/axios-homework/index.html",
+    "main.27c25cfb.css.map": "/axios-homework/static/css/main.27c25cfb.css.map",
+    "main.650e311c.js.map": "/axios-homework/static/js/main.650e311c.js.map",
+    "453.dcd67a1a.chunk.js.map": "/axios-homework/static/js/453.dcd67a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c25cfb.css",
+    "static/js/main.650e311c.js"
+  ]
+}
